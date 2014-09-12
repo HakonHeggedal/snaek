@@ -4,6 +4,7 @@ Created on 28. mai 2014
 @author: Håkon
 '''
 import pygame
+print "test"
 
 pygame.init()
 fpss = pygame.time.Clock()
